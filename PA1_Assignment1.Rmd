@@ -1,8 +1,10 @@
 ---
-title: "PA1_Assignemnet1"
+title: "PA1_template1"
 author: "Deepika Dasari"
 date: "Sunday, April 19, 2015"
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
 # Reproducible Research: Peer Assessment 1
